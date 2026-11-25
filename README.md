@@ -5,8 +5,16 @@ Backend software engineer in Bengaluru. I build APIs, data pipelines and event-d
 - 2 years as a Software Engineer at **Pretium** (U.S. single-family rental platform), after a year as an analyst at **Bayer**
 - AWS Certified Solutions Architect – Associate ([verify on Credly](https://www.credly.com/users/tanmay-kumar.ce476d70))
 - Open to backend and full-stack SDE roles · Bengaluru or remote
+  
+---
 
-**Currently:** load-testing and failure-testing [log-aggregator](https://github.com/tanmay-publicrepo/log-aggregator), and publishing the results in its README.
+### Tech
+
+**Languages:** Java, Python, JavaScript, SQL<br>
+**Backend & streaming:** Spring, Node.js, Express, REST APIs, Kafka, Kafka Streams, Kafka Connect<br>
+**Data:** PostgreSQL, Redis, OpenSearch, BigQuery<br>
+**Cloud & tooling:** AWS, Docker, GitHub Actions, Prometheus, Grafana
+
 
 ---
 
@@ -37,15 +45,6 @@ A VS Code extension that shows Java release notes in plain English:
 - **Yardi-integrated rent-readiness pipeline** that cut time-to-lease by 5–7 days
 - **Nightly reconciliation job** that keeps Yardi and the internal PostgreSQL database in sync
 - **LLM lease-extraction pipeline** (Python) that turns lease PDFs into validated, structured data
-
----
-
-### Tech
-
-**Languages:** Java, Python, JavaScript, SQL<br>
-**Backend & streaming:** Spring, Node.js, Express, REST APIs, Kafka, Kafka Streams, Kafka Connect<br>
-**Data:** PostgreSQL, Redis, OpenSearch, BigQuery<br>
-**Cloud & tooling:** AWS, Docker, GitHub Actions, Prometheus, Grafana
 
 ---
 
