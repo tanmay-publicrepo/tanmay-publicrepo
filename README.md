@@ -7,7 +7,7 @@ AWS Certified Solutions Architect – Associate (verify on Credly)
 Open to backend and full-stack SDE roles · Bengaluru or remote
 Projects
 
-log-aggregator · Java 21, Kafka, Kafka Streams, Kafka Connect, Avro, PostgreSQL, Docker Compose
+##log-aggregator · Java 21, Kafka, Kafka Streams, Kafka Connect, Avro, PostgreSQL, Docker Compose
 
 A log pipeline built from scratch and run locally with Docker Compose:
 
@@ -17,7 +17,7 @@ Sinks (Kafka Connect): OpenSearch, S3 (MinIO), and a PostgreSQL sink connector I
 Monitoring: Prometheus and Grafana, with a consumer-lag alert
 Quality: 70+ JUnit, Mockito and Testcontainers tests, run in GitHub Actions CI
 
-release-notes-simplified · Node.js, Express, PostgreSQL (Neon), Prisma, VS Code extension
+##release-notes-simplified · Node.js, Express, PostgreSQL (Neon), Prisma, VS Code extension
 
 A VS Code extension that shows Java release notes in plain English:
 
